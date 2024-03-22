@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mandiqueve
-- 👀 I’m interested in numerical Python in astrophysic and Python for videogames development
+- 👀 I’m interested in numerical Python in astrophysic and Python for videogame development
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: amandaquevedoalmaguer@gmail.com
 - 😄 Pronouns: mandi
